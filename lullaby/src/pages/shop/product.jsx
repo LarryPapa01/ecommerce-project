@@ -8,7 +8,8 @@ export const Product = (props) => {
     const cartItemAmount = cartItems[id]
     return (
         <div className="product">
-        <img src={productImage} /> 
+        <img src={productImage} />
+        <img className="img8" />
         <div className="description">
         
         
