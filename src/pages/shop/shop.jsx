@@ -49,7 +49,7 @@ export const Shop = () => {
 
   // Filter products based on the search query
   const handleSearch = () => {
-   console.log(searchQuery)
+
    const filtered = PRODUCTS.filter((product) =>
       product.productName.toLowerCase().includes(searchQuery.toLowerCase())
     );
