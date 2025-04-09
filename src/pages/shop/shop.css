@@ -8,13 +8,14 @@
   width: 100%;
   height: auto;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
   place-items: center;
+  gap:0px;
 }
 
 .product {
   border-radius: 15px;
-  width: 300px;
+  width: 100px;
   height: 350px;
   margin: 100px;
   display: flex;
@@ -24,7 +25,7 @@
 }
 
 .product img {
-  width: 300px;
+  width: 200px;
 }
 
 .product .description {
