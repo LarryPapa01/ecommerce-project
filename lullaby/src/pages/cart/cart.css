@@ -20,17 +20,21 @@
 
 .cartItem img {
   width: 200px;
+  /* position: relative;
+top: 200px; */
 }
 
 .cartItem .description {
   width: 100%;
   font-size: 30px;
+
 }
 
 .countHandler input {
-  width: 40px;
+  width: 60px;
   text-align: center;
   font-weight: bolder;
+  
 }
 
 .checkout button {

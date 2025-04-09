@@ -11,56 +11,56 @@ export const PRODUCTS = [
     {
         id: 1,
         productName: "Yam",
-        price: "£5",
+        price: "5",
         productImage: product1
     },
 
     {
         id: 2,
         productName: "Rice",
-        price: "£12",
+        price: "12",
         productImage: product2
     },
 
     {
         id: 3,
         productName: "Beans",
-        price: "£18",
+        price: "18",
         productImage: product3
     },
 
     {
         id: 4,
         productName: "Fish",
-        price: "£10",
+        price: "10",
         productImage: product4
     },
 
     {
         id: 5,
         productName: "Meat",
-        price: "£6",
+        price: "6",
         productImage: product5
     },
 
     {
         id: 6,
         productName: "Coke",
-        price: "£5",
+        price: "5",
         productImage: product6
     },
 
     {
         id: 7,
         productName: "Water",
-        price: "£5",
+        price: "5",
         productImage: product7
     },
 
     {
         id: 8,
         productName: "Pepper",
-        price: "£5",
+        price: "5",
         productImage: product8
     }
 ]

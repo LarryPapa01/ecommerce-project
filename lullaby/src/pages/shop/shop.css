@@ -1,7 +1,4 @@
 
-
-
-
 .shopTitle {
   margin-top: 100px;
   text-align: center;
@@ -57,6 +54,39 @@
 }
 
 
+.whole{
+position: relative;
+left: 550px;
+}
+
+
+
+
+
+.search {
+  font-size: 40px;
+  position: relative;
+  top: 8px;
+  border-radius: 10px;
+  color: blue;
+  
+}
+
+
+.search:hover {
+  background-color: orange;
+  color: white;
+  cursor:pointer;
+}
+
+.bar {
+  width: 400px;
+  height: 48px;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 20px;
+ 
+}
 
 
 
