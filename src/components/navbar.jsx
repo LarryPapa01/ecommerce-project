@@ -4,6 +4,7 @@ import { ShoppingCart} from "phosphor-react"
 import './navbar.css'
 
 
+
 export const Navbar = () => {
     return (
     
